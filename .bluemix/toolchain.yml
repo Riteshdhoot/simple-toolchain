@@ -12,10 +12,10 @@ template:
     - sample-build
     - sample-repo
   info:
-    git url: >-
-      [https://github.com/open-toolchain/simple-toolchain](https://github.com/open-toolchain/simple-toolchain)
-    git branch: >-
-      [master](https://github.com/open-toolchain/simple-toolchain/tree/master)
+  git url: >-
+    [https://github.com/Riteshdhoot/simple-toolchain](https://github.com/Riteshdhoot/simple-toolchain)
+  git branch: >-
+    [master](https://github.com/Riteshdhoot/simple-toolchain/tree/master)
 toolchain:
   name: 'simple-toolchain-{{timestamp}}'
   template:
